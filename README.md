@@ -27,7 +27,7 @@ This tool allows you to:
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/yourusername/password-tool.git
+    git clone https://github.com/raulacor/Password-Administrator.git
     cd password-tool
     ```
 2. Install dependencies:
