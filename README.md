@@ -14,16 +14,16 @@ A lightweight Python CLI tool to **generate strong passwords** (with the option 
 
 ---
 
-## About
+## :notebook: About 
 
 This tool allows you to:
-- Generate secure passwords with customizable length and optional hyphens for readability.
-- Check the strength of any password, receiving a score (0–5) and feedback on missing components like uppercase letters, digits, or special characters.
+- Generate secure passwords with customizable length and optional hyphens for readability (just like Apple's password gen).
+- Check the strength of any password, receiving a score (0–5) and feedback.
 - Optionally copy generated passwords to clipboard via `pyperclip`.
 
 ---
 
-## Installation
+## 🔧 Installation 
 
 1. Clone this repository:
     ```bash
@@ -37,7 +37,7 @@ This tool allows you to:
 
 ---
 
-## Usage
+## :electric_plug: Usage
 
 Run from the command line:
 
@@ -47,7 +47,7 @@ python password_tool.py
 
 ---
 
-## Password Strength Criteria
+## :muscle: Password Strength Criteria
   Each password gains 1 point for meeting each requirement:
   
   Length ≥ 8 characters
@@ -62,7 +62,7 @@ python password_tool.py
 
 ---
 
-  ## Example 
+  ## 👻 Example 
     Welcome to the Password Generator tool!
     Options:
     1. Check Current Password Strength.
