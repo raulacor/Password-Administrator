@@ -1,6 +1,6 @@
 # 🔐 Password Administrator
 
-A lightweight Python CLI tool to **generate strong passwords** (with the option to add hyphens every 4 characters, just like Apple`s password generator) and **assess the strength** of existing ones.
+A lightweight Python CLI tool to **generate strong passwords** (with the option to add hyphens every 4 characters, just like Apple`s password generator) and **assess the strength** of your passwords.
 
 ---
 
